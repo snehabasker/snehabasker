@@ -1,6 +1,6 @@
 ## Hi, I'm Sneha :)
 
-**AI & data engineer.** I build LLM agents, knowledge graphs and RL training pipelines that are measured, tested and deployable, not just demos. Every project below ships with an evaluation, a baseline it has to beat, and an honest note on what has *not* been verified yet.
+**AI & data engineer · Forward Deployed Engineer · Consultant.** I work directly with customers to turn messy, real-world problems into production AI systems. I build LLM agents, knowledge graphs and RL training pipelines that are measured, tested and deployable, not just demos. Every project below ships with an evaluation, a baseline it has to beat, and an honest note on what has *not* been verified yet.
 
 ### Featured projects
 
